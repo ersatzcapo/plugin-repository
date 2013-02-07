@@ -240,4 +240,12 @@ description: This plugin provides a way to create tests for NoSQL databases usin
 artifact: com.lordofthejars:nosqlunit-forge-plugin:1.0.0
 gitrepo: https://github.com/lordofthejars/nosqlunit-forge-plugin
 tags: test, junit, nosql, persistence tests, nosqlunit
+---
+name: beanstest
+author: Christian Brandenstein <cbr@adorsys.de>
+website: https://github.com/ersatzcapo/forge-beanstest
+description: Enables simple junit testing with CDI beans. Also supports mockito mock generation and a test persistence setup with hsqldb.
+artifact: de.adorsys.beanstest.plugin:forge-beanstest-plugin:1.0
+gitrepo: https://github.com/ersatzcapo/forge-beanstest.git
+tags: test, junit, cdi, mockito
 
